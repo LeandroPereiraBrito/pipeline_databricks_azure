@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-leandro",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ccf354af-a42b-4fa6-aebd-4f4295938674",
+		"tenantId": "52f48155-52db-417c-b3c8-2259f728c97b"
+	}
+}
